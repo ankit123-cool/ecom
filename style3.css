@@ -1,0 +1,68 @@
+div.bgw{background-color: rgb(248, 249, 250);height: 700px; width: 1400px;margin-top: 20px;margin-left: 60px;border-radius: 10px;position: absolute;}
+body{background-color: rgb(161, 211, 240);}
+div.hd{position: absolute;margin-left: 90px;margin-top: 20px;}
+div.crc{height: 35px;width: 35px; border-radius: 50%;position: absolute;background-color: rgb(161, 211, 240);margin-left: 120px;margin-top: 40px;}
+p.head{font-size: 25px;font-weight: bold;}
+div.btn{position: absolute;margin-left: 400px;margin-top: 43px;}
+button.a{background-color: rgb(12, 12, 12);padding:10px;border-radius: 15px;border:none;color:white;padding-left: 20px;padding-right: 20px;}
+button.b{background-color: rgb(233, 230, 230);padding:10px;border-radius: 15px;border:none;}
+div.src{position: absolute;margin-left: 800px;margin-top: 43px;}
+div.set{position: absolute;margin-left: 1350px;margin-top: 41px;}
+div.im{position: absolute;margin-left: 1400px;margin-top: 43px; height: 20px; width: 20px; background-color: rgb(235, 230, 230);border-radius: 50%;}
+img{border-radius: 50%;}
+div.src input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 15px;
+    background-color: rgb(233, 230, 230);
+    border: none;
+  }
+  div.di{position: absolute; height: 690px; width: 3px; margin-left: 300px; background-color: rgb(233, 230, 230);margin-top: 23px;}
+  div.vi{position: absolute; height: 3px; width: 1140px; margin-left: 300px; background-color: rgb(233, 230, 230);margin-top: 100px;}
+  div.acs{position: absolute;margin-left: 100px;height: 230px; width: 150px;  margin-top: 150px;}
+  div.p1{position: absolute;margin-left: 50px;margin-top: 10px;font-weight: bold;}
+  div.p2{position: absolute;margin-left: 50px;margin-top: 50px;font-weight: bold;}
+  div.p3{position: absolute;margin-left: 50px;margin-top: 90px;font-weight: bold;}
+  div.p4{position: absolute;margin-left: 50px;margin-top: 130px;font-weight: bold;}
+  div.p5{position: absolute;margin-left: 50px;margin-top: 170px;font-weight: bold;}
+
+  div.ic1{margin-left: 10px;margin-top: 25px;position: absolute;}
+  div.ic2{margin-left: 10px;margin-top: 65px;position: absolute;}
+  div.ic3{margin-left: 12px;margin-top: 105px;position: absolute;}
+  div.ic4{margin-left:12px;margin-top: 145px;position: absolute;}
+  div.ic5{margin-left: 12px;margin-top: 185px;position: absolute;}
+  
+  div.c1{margin-left: 5px;margin-top: 20px;position: absolute;height: 30px; width: 30px; border-radius: 50%; background-color: rgb(197, 225, 248);}
+  div.c2{margin-left: 5px;margin-top: 60px;position: absolute;height: 30px; width: 30px; border-radius: 50%; background-color: rgb(245, 205, 173);}
+  div.c3{margin-left: 5px;margin-top: 100px;position: absolute;height: 30px; width: 30px; border-radius: 50%; background-color: rgb(245, 188, 215);}
+  div.c4{margin-left: 5px;margin-top: 140px;position: absolute;height: 30px; width: 30px; border-radius: 50%; background-color: rgb(214, 243, 190);}
+  div.c5{margin-left: 5px;margin-top: 180px;position: absolute;height: 30px; width: 30px; border-radius: 50%; background-color: rgb(243, 204, 241);}
+  div.br{position: absolute; height: 170px; width: 140px;  background-image: linear-gradient(to right, rgb(223, 173, 238) , rgb(195, 70, 253));margin-left: 100px; margin-top: 450px;padding: 20px;color: white;border-radius: 20px;}
+  div.we{position: absolute;height: 100px; width: 100px; border-radius: 50%; margin-left: 70px; margin-top: 500px; background-color: rgb(195, 70, 253);}
+  div.lst{position: absolute;margin-left:130px;margin-top:690px ;}
+  div.lst1{position: absolute;margin-left:160px;margin-top:670px ;}
+  div.mdm1{position: absolute;margin-left:350px ; margin-top: 150px; background-image: linear-gradient(to right, rgb(161, 211, 240) , rgb(8, 129, 185));height: 250px; width: 300px;border-radius: 10px;}
+  div.mdm3{position: absolute;margin-left:725px ; margin-top: 150px; background-image: linear-gradient(to right, rgb(137, 190, 165) , rgb(76, 243, 160));height: 150px; width: 200px;padding: 50px;border-radius: 10px;}
+  div.mdm4{position: absolute;margin-left:1100px ; margin-top: 150px; background-image: linear-gradient(to right, rgb(207, 172, 138) , rgb(252, 171, 95));height: 150px; width: 200px;padding: 50px;border-radius: 10px;}
+  div.mdm2{position: absolute;margin-left:400px ; margin-top: 230px;color: white;}
+  div.mdm5{position: absolute;height: 27px; width: 50px;background-color: white;margin-left:720px ; margin-top: 160px;padding: 5px; border-radius: 5px;}
+  div.mdm6{position: absolute;height: 27px; width: 50px;background-color: white;margin-left:1095px ; margin-top: 160px;padding: 5px; border-radius: 5px;}
+  div.txt1{position: absolute;margin-left:350px ; margin-top: 420px;color:black}
+  div.txt2{position: absolute;margin-left:750px ; margin-top: 420px;color:black}
+  div.txt3{position: absolute;margin-left:350px ; margin-top: 460px;color:black}
+  div.txt4{position: absolute;margin-left:420px ; margin-top: 460px;color:rgb(179, 179, 179)}
+  div.txt5{position: absolute;margin-left:490px ; margin-top: 460px;color:rgb(179, 179, 179)}
+  div.t1{position: absolute;margin-left:350px ; margin-top: 515px;}
+  div.t7{position: absolute;margin-left:350px ; margin-top: 630px;}
+  div.t2{position: absolute;margin-left:450px ; margin-top: 510px;}
+  div.t5{position: absolute;margin-left:450px ; margin-top: 530px;}
+  div.t3{position: absolute;margin-left:450px ; margin-top: 550px;color: rgb(190, 192, 192);}
+  div.t4{position: absolute;margin-left:450px ; margin-top: 630px;color: rgb(190, 192, 192);}
+  div.t6{position: absolute;margin-left:450px ; margin-top: 650px;color: rgb(190, 192, 192);}
+  div.jk{position: absolute;margin-left:750px ; margin-top: 480px;height: 220px; width: 600px; background-color: rgb(216, 219, 219);border-radius: 5px;}
+  div.jk2{position: absolute;margin-left:790px ; margin-top: 490px;}
+  p.g{font-size: 12px; color: white;}
+  div.jk3{position: absolute;margin-left:940px ; margin-top: 490px;}
+  div.jk4{position: absolute;margin-left:1090px ; margin-top: 490px;}
+  div.jk5{position: absolute;margin-left:1240px ; margin-top: 490px;}
+  div.lkj{position: absolute;margin-left:760px ; margin-top: 585px;height: 50px; width: 550px; background-color: rgb(22, 22, 22);border-radius: 20px;}
